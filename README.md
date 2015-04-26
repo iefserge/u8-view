@@ -2,6 +2,8 @@
 
 DataView on top of Uint8Array
 
+[![Build Status](https://travis-ci.org/iefserge/u8-view.svg)](https://travis-ci.org/iefserge/u8-view)
+
 ## USAGE
 
 ```js
