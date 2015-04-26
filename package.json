@@ -1,0 +1,27 @@
+{
+  "name": "u8-view",
+  "version": "0.1.0",
+  "description": "DataView on top of Uint8Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iefserge/u8-view.git"
+  },
+  "keywords": [
+    "dataview",
+    "uint8array",
+    "buffer"
+  ],
+  "author": "Sergii Iefremov <iefserge@runtimejs.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iefserge/u8-view/issues"
+  },
+  "homepage": "https://github.com/iefserge/u8-view",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
