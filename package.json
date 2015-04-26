@@ -1,6 +1,6 @@
 {
   "name": "u8-view",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "DataView on top of Uint8Array",
   "main": "index.js",
   "scripts": {
