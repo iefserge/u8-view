@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+'use strict';
+
 exports.getUint16BE = function(u8, offset) {
   return ((u8[offset] << 8) + u8[offset + 1]) >>> 0;
 };
